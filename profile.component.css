@@ -1,0 +1,32 @@
+img{
+    padding: 50px;
+    padding-left: 100px;
+  }
+  p{
+    margin: 20px;
+    color: black;
+    text-justify: newspaper;
+  }
+
+  .hobbies{
+    background-color: rgb(51, 137, 194);
+    text-align: center;
+    text-decoration: double;
+}
+  
+.mat-card{
+    background-color: whitesmoke;
+    background-image: linear-gradient(rgb(0, 0, 0, 0.7), #3582b5),
+    url(../../assets/3.jpg);
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-decoration-style: inherit;
+    text-align: center;
+    color: black;
+}
+a{
+    text-align: center;
+}
