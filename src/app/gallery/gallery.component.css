@@ -1,0 +1,19 @@
+.mat-card{
+    background-color: whitesmoke;
+}
+.content{
+    padding: 16px;
+}
+.content > mat-card {
+    width: 200px;
+}
+.example-header-image {
+    background-image: url(../../assets/3.jpg);
+    background-size: cover;
+}
+.mat-card-title{
+    color: black;
+}
+.mat-card-subtitle{
+    color: black;
+}
